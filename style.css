@@ -11,10 +11,10 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    animation: windowsa 1s ease-in-out infinite;
+    animation: body 1s ease-in-out infinite;
 }
 
-@keyframes windowsa {
+@keyframes body {
     0% {
         background: #ff0000;
     }
@@ -67,11 +67,11 @@ div {
     font-family: 'Ubuntu', sans-serif;
     font-size: 170px;
     pointer-events: none;
-    animation: windows 1s ease-in-out infinite;
+    animation: letter 1s ease-in-out infinite;
     text-shadow: 0 0 20px #000000;
 }
 
-@keyframes windows {
+@keyframes letter {
     0% {
         color: #ff0000;
         transform: rotate(0deg);
