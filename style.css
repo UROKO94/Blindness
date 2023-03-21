@@ -13,7 +13,7 @@ body {
     align-items: center;
     min-height: 100vh;
     animation: body 1s ease-in-out infinite;
-    /* 1秒間かけて"@keyframes body"のアニメーションをずっと実行させる */
+    /* 1秒間かけて"@keyframes body"に書かれている内容をずっと実行させる */
 }
 
 @keyframes body {
@@ -75,7 +75,7 @@ div {
     text-shadow: 0 0 20px #000000;
     /* drop-shadowでもいけます */
     animation: letter 1s ease-in-out infinite;
-    /* 1秒間かけて"@keyframes letter"のアニメーションをずっと実行させる */
+    /* 1秒間かけて"@keyframes letter"に書かれている内容をずっと実行させる */
 }
 
 @keyframes letter {
