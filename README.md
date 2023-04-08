@@ -3,8 +3,8 @@
 誰でも書いてる内容が分かるくらい簡単なコードです。  
 Chromeで動作確認しています。  
 [MIT licence](https://github.com/UROKO94/Blindfold/blob/main/LICENSE)です。  
-  
-ディレクトリ構成  
+
+## ディレクトリ構成  
 ```
 .
 ├── LICENSE
