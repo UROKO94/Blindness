@@ -7,7 +7,7 @@ Chromeで動作確認しています。
 ## ディレクトリ構成  
 ```
 .
-├── LICENSE
+├── LICENSE.txt
 ├── README.md
 ├── index
 │   ├── index.html
