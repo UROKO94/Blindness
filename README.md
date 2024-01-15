@@ -13,6 +13,6 @@ Chromeで動作確認しています。
 │   ├── index.html
 │   └── style.css
 └── letter_case
-    ├─ index.html
-    └─ style.css
+    ├── index.html
+    └── style.css
 ```
