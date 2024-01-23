@@ -7,12 +7,12 @@ Chromeで動作確認しています。
 ## ディレクトリ構成  
 ```
 .
-├── LICENSE.txt
-├── README.md
 ├── index
 │   ├── index.html
 │   └── style.css
-└── letter_case
-    ├── index.html
-    └── style.css
+├── letter_case
+│   ├── index.html
+│   └── style.css
+├── LICENSE.txt
+└── README.md
 ```
