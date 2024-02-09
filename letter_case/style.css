@@ -72,6 +72,7 @@ div {
     /* フォントサイズはお好みで */
     pointer-events: none;
     /* 正直これなくても大丈夫 */
+    user-select: none;
     text-shadow: 0 0 20px #000000;
     /* drop-shadowでもいけます */
     animation: letter 1s ease-in-out infinite;
