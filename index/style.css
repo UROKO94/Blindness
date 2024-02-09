@@ -1,5 +1,4 @@
-@charset "UTF-8";
-/* 文字エンコーディングを定義 */
+@charset "UTF-8";  /* 文字エンコーディングを定義 */
 
 * {
     margin: 0;
@@ -13,7 +12,6 @@ body {
     align-items: center;
     min-height: 100vh;
     animation: body 1s ease-in-out infinite;
-    /* 1秒間かけて"@keyframes body"に書かれている内容をずっと実行させる */
 }
 
 @keyframes body {
@@ -67,15 +65,11 @@ div {
     align-items: center;
     text-align: center;
     font-family: sans-serif;
-    /* フォントはお好みで */
-    font-size: 170px;
-    /* フォントサイズはお好みで */
+    font-size: 170px;  /* フォントサイズはお好みで */
     pointer-events: none;
-    /* 正直これなくても大丈夫 */
-    text-shadow: 0 0 20px #000000;
-    /* drop-shadowでもいけます */
+    user-select: none;
     animation: letter 1s ease-in-out infinite;
-    /* 1秒間かけて"@keyframes letter"に書かれている内容をずっと実行させる */
+    text-shadow: 0 0 20px #000000;  /* drop-shadowでもいけます */
 }
 
 @keyframes letter {
