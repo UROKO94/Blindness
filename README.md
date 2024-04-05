@@ -10,7 +10,7 @@ Chromeで動作確認しています。
 ├── index
 │   ├── index.html
 │   └── style.css
-├── letter_case
+├── ex
 │   ├── index.html
 │   └── style.css
 ├── LICENSE.txt
